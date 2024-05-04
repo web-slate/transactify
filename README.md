@@ -29,8 +29,14 @@ for transaction, category in zip(new_transactions, predicted_categories):
 ```
 
 ## Expected output
+
 ```
 Transaction: Book purchase from Bookstore ABC --> Predicted Category: Online Payment
 Transaction: Lunch at Cafe XYZ --> Predicted Category: Unknown
 Transaction: Book movie ticket in website --> Predicted Category:  Online Payment
 ```
+
+## Demo
+
+![transactify-demo](https://github.com/web-slate/transactify/assets/1652629/4537ff3a-2572-4037-a541-41150ab21f0f)
+
