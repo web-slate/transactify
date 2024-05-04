@@ -1,19 +1,22 @@
 import pickle
+import pkg_resources
 
-# Load the trained model from the pickle file
-with open('transactify_model.pkl', 'rb') as file:
-    model = pickle.load(file)
+class TransactionCategorizer:
+    def __init__(self, model_path=None):
+        if model_path is None:
+            # Load the model file from the package's data directory
+            model_path = pkg_resources.resource_filename(__name__, 'transactify_model.pkl')
+        self.model_path = model_path
+        self.load_model()
 
-# TODO: will be passed as parameter.
-new_transactions = [
-    "Book purchase from Bookstore ABC",
-    "Lunch at Cafe XYZ",
-    "Book movie ticket in website"
-]
+    def load_model(self):
+        with open(self.model_path, 'rb') as file:
+            self.model = pickle.load(file)
 
-# Predict categories for new transactions
-predicted_categories = model.predict(new_transactions)
+    def predict_categories(self, transactions):
+        predicted_categories = self.model.predict(transactions)
+        return predicted_categories
 
-# Output the predicted categories
-for transaction, category in zip(new_transactions, predicted_categories):
-    print(f"Transaction: {transaction} --> Predicted Category: {category}")
+def predict_categories(transactions):
+    categorizer = TransactionCategorizer()
+    return categorizer.predict_categories(transactions)
