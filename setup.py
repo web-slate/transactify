@@ -4,7 +4,7 @@ setup(
     name='transactify',
     version='0.1.0',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['scikit-learn'],
     author='Venkatraman.R',
     author_email='ramsunvtech@gmail.com',
     description='A Python module for predicting transaction categorization',
