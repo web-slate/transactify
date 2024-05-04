@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='transactify',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     package_data={'transactify': ['transactify_model.pkl']},
     install_requires=['scikit-learn'],
