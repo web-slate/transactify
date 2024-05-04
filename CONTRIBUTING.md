@@ -1,7 +1,8 @@
-## Setup Virtual Environment
+## Setup and Activate Virtual Environment
 
 ```
 python -m venv .venv
+source .venv/bin/activate
 ```
 
 ## Upgrade PIP
