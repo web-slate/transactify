@@ -1,3 +1,9 @@
+## Setup Virtual Environment
+
+```
+python -m venv .venv
+```
+
 ## Upgrade PIP
 ```
 pip install --upgrade pip
