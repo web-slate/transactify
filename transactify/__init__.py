@@ -8,4 +8,4 @@ __author__ = "Venkatraman.R (ramsunvtech@gmail.com) @ramsunvtech"
 __version__ = "0.1.0"
 __license__ = "MIT"
 
-from .predict_category import predict_categories
+from transactify.predict_category import predict_categories
