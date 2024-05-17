@@ -34,7 +34,7 @@ python setup.py sdist bdist_wheel
 
 ```
 pip install -e .
-``
+```
 
 ## Publish through `Twine`
 
