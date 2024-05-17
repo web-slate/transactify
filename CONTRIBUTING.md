@@ -23,6 +23,12 @@ pip install -r requirements.txt
 python training/training_model.py
 ```
 
+## Test in Local Script
+
+```
+python transactigy/find_my_txn_category.py
+```
+
 ## Package the Module
 
 ```
