@@ -3,7 +3,8 @@ from predict_category import predict_categories
 new_transactions = [
     "Book purchase from Bookstore ABC",
     "Lunch at Cafe XYZ",
-    "Book movie ticket in website"
+    "Lunch at Saravana Bhavan",
+    "Buying a TShirt"
 ]
 
 # Predict categories for new transactions
