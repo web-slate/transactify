@@ -6,7 +6,11 @@ from transactify import predict_categories
 new_transactions = [
     "Book purchase from Bookstore ABC",
     "Lunch at Cafe XYZ",
-    "Book movie ticket in website"
+    "Book movie ticket in website",
+    "Online order from Etsy",
+    "Airline ticket booking",
+    "Subscribed to digital magazine for monthly issues",
+    "Renewed annual subscription to video streaming service"
 ]
 
 # Predict categories for new transactions
