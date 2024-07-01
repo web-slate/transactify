@@ -1,60 +1,129 @@
 Transaction Description,Category
-Purchase at Amazon,Online Payment
-Dinner at ABC Restaurant,Food & Dining
-Gas station purchase,Transportation
-Online payment to ABC Corp,Online Payment
-Grocery shopping at XYZ Mart,Online Payment
-Clothes shopping at H&M,Shopping
-Lunch at McDonald's,Food & Dining
-Electricity bill payment,Utilities
-Movie ticket purchase,Entertainment
-Furniture purchase at IKEA,Home Improvement
-Coffee at Starbucks,Food & Dining
-Car insurance payment,Insurance
-Music streaming subscription,Online Payment
-Train ticket booking,Transportation
-Pharmacy purchase,Health & Wellness
-Subscription to Netflix,Online Payment
-Hardware store purchase,Home Improvement
-Magazine subscription renewal,Reading & Subscriptions
-Dinner at Italian restaurant,Food & Dining
-Mobile phone bill payment,Communication Expenses
-Online course subscription,Online Payment
-Gym membership renewal,Fitness
-Shopping at Walmart,Shopping
-Coffee machine purchase,Home Improvement
-Dinner at Chinese restaurant,Food & Dining
-Gas bill payment,Utilities
-Gaming console purchase,Electronics
-Taxi ride,Transportation
-Book purchase at Barnes & Noble,Reading & Subscriptions
-Payment to utility company,Utilities
-Lunch at Subway,Food & Dining
-Online software subscription,Online Payment
-Bedding purchase,Home Improvement
-Dinner at Mexican restaurant,Food & Dining
-Payment to credit card company,Financial Services
-Shoe shopping at Nike,Shopping
-Concert ticket purchase,Entertainment
-Payment to internet service provider,Utilities (Online Payment)
-Grocery shopping at Target,Groceries
-Haircut at local salon,Personal Care
-Subscription to Spotify,Online Payment
-Laptop purchase,Electronics
-Breakfast at Denny's,Food & Dining
-Payment to streaming service,Online Payment
-Clothing alteration,Clothing / Personal Care
-Online donation to charity,Charity
-Car wash,Vehicle Maintenance
-Dinner at sushi restaurant,Food & Dining
-Payment to phone company,Utilities
-Art supplies purchase,Arts & Crafts
-Water Bill in spgroup,Utilities (Online Payment)
-spgroup.com.sg,Utilities (Online Payment)
-Subscribed to Educative,Online Payment
-Book HarryPotter movie ticket,Entertainment
-Going to beach,Outdoor Activities
-Going to marina,Outdoor Activities
-Tshirt,Clothing
-Got TShirt,Clothing
-Buying a TShirt,Clothing
+Amazon, Online Payment
+ABC Restaurant, Food & Dining
+Gas station, Transportation
+Payment to ABC Corp, Online Payment
+Grocery at XYZ Mart, Online Payment
+Clothes at H&M, Shopping
+McDonald's, Food & Dining
+Electricity bill, Utilities
+Movie ticket, Entertainment
+Furniture at IKEA, Home Improvement
+Starbucks, Food & Dining
+Car insurance, Insurance
+Music subscription, Online Payment
+Train ticket, Transportation
+Pharmacy, Health & Wellness
+Netflix, Online Payment
+Hardware store, Home Improvement
+Magazine renewal, Reading & Subscriptions
+Italian Restaurant, Food & Dining
+Phone bill, Communication Expenses
+Course subscription, Online Payment
+Gym membership, Fitness
+Walmart, Shopping
+Coffee machine, Home Improvement
+Chinese Restaurant, Food & Dining
+Gas bill, Utilities
+Gaming console, Electronics
+Taxi, Transportation
+Barnes & Noble, Reading & Subscriptions
+Utility payment, Utilities
+Subway, Food & Dining
+Software subscription, Online Payment
+Bedding, Home Improvement
+Mexican Restaurant, Food & Dining
+Credit card payment, Financial Services
+Nike, Shopping
+Concert ticket, Entertainment
+Internet bill, Online Payment
+Target, Groceries
+Haircut, Personal Care
+Spotify, Online Payment
+Laptop, Electronics
+Denny's, Food & Dining
+Streaming service, Online Payment
+Clothing alteration, Clothing
+Charity donation, Charity
+Car wash, Vehicle Maintenance
+Sushi Restaurant, Food & Dining
+Phone payment, Utilities
+Art supplies, Arts & Crafts
+Water bill, Utilities (Online Payment)
+spgroup.com.sg, Utilities (Online Payment)
+Educative, Online Payment
+Harry Potter ticket, Entertainment
+Beach, Outdoor Activities
+Marina, Outdoor Activities
+T-shirt, Clothing
+Hotel booking, Travel
+Adobe Creative Cloud, Online Payment
+Food bank donation, Charity
+School supplies, Education
+Gardening, Home Maintenance
+Sports event tickets, Entertainment
+Car rental, Travel
+Cleaning service, Home Maintenance
+Etsy, Online Payment
+Airline ticket, Travel
+Seafood Restaurant, Food & Dining
+Coding bootcamp, Online Payment
+New phone, Electronics
+Carpet cleaning, Home Maintenance
+Health club, Health & Wellness
+Produce market, Groceries
+Pest control, Home Maintenance
+Office supplies, Office Supplies
+Installments, Online Payment
+Animal shelter donation, Charity
+Accountant, Financial Services
+Educational toys, Childcare
+Sports equipment, Fitness
+Parking fee, Transportation
+Bakery, Food & Dining
+House painting, Home Improvement
+Airport taxi, Transportation
+Language tutor, Education
+Audible, Reading & Subscriptions
+Driving lessons, Education
+Bike, Transportation
+Dance class, Fitness
+Custom furniture, Home Improvement
+Window cleaning, Home Maintenance
+Musical instrument, Arts & Crafts
+Environmental donation, Charity
+Water filter, Home Maintenance
+Concert memorabilia, Entertainment
+Video game subscription, Entertainment
+Cooking class, Education
+Babysitter, Childcare
+New mattress, Home Improvement
+Handmade jewelry, Shopping
+Tutoring, Education
+Photo printing, Arts & Crafts
+Boat rental, Outdoor Activities
+Camping gear, Outdoor Activities
+Meditation app, Health & Wellness
+Physiotherapy, Health & Wellness
+Fitness app, Fitness
+Pet grooming kit, Pet Care
+Pet insurance, Pet Care
+Streaming renewal, Online Payment
+Video editing software, Online Payment
+Virtual event tickets, Online Payment
+Digital magazine, Online Payment
+Fitness subscription, Online Payment
+Gaming platform, Online Payment
+Virtual concert tickets, Online Payment
+Cloud storage, Online Payment
+Online movie tickets, Online Payment
+Digital music album, Online Payment
+Online course, Online Payment
+Virtual concert, Online Payment
+Virtual museum, Online Payment
+Productivity app, Online Payment
+Digital artwork, Online Payment
+Weekly groceries, Online Payment
+Online fitness, Online Payment
+Virtual theater, Online Payment
+Video streaming, Online Payment
